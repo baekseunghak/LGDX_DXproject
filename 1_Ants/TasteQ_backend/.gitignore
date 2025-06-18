@@ -1,0 +1,18 @@
+# Created by pytest automatically.
+# Byte‑code
+__pycache__/
+*.py[cod]
+*.pyc
+# 가상환경
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# 기타
+.env
+
+
+# 구글 STT키
+src/lg-el-dx-school-api-5c8fe5856391.json
